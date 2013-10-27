@@ -1,7 +1,7 @@
 {
   "name": "ipfilter",
   "description": "A light-weight IP address based filtering system",
-  "version": "0.0.4",
+  "version": "0.0.4+ifg1",
   "author": "Michael Schonfeld <michael@dwolla.com>",
   "dependencies": {
     "underscore": "1.3.3"
@@ -18,7 +18,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "http://github.com/dwolla/node-ipfilter.git"
+    "url": "http://github.com/ifeelgoods/node-ipfilter.git"
   },
   "main": "index.js",
   "scripts": {
